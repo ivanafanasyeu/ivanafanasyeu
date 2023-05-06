@@ -8,16 +8,16 @@ For know me better, here is my [LinkedIn](https://www.linkedin.com/in/ivanafanas
 | --- | --- | --- |
 | developerway | A bunch of tutorial, mostly about the react | https://www.developerway.com/ |
 
+## Practice Code
+| Tutorials | Description | Link |
+| --- | --- | --- |
+| Coderbyte | Practice Code solutions | https://coderbyte.com/ |
+
 
 ## Deploy
 - Azure
 - AWS
 - Vercel
-
-## Practice Code
-| Tutorials | Description | Link |
-| --- | --- | --- |
-| Coderbyte | Practice Code solutions | https://coderbyte.com/ |
 
 ## Tools
 | Tool | Description | Link |
