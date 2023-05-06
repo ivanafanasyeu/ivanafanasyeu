@@ -1,4 +1,4 @@
-# Hi, I'm Ivan Afanaseyu
+# Hi, I'm Ivan Afanasyeu
 Here is my github profile. I almost don't use github, cause working with close or private companies.
 I'm gonna use this page as an informative resource for myself to save helpful links & gists.
 For know me better, here is my [LinkedIn](https://www.linkedin.com/in/ivanafanasyev/)
