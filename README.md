@@ -82,3 +82,7 @@ content-visibility: auto; //more for Chrome   
 
 ## Mobile inputs
 https://better-mobile-inputs.netlify.app/
+
+## Infinity Scroll:
+It's better to implement using IntersectionObserver or Virtualization list library
+https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API
