@@ -46,4 +46,4 @@ For know me better, here is my [LinkedIn](https://www.linkedin.com/in/ivanafanas
 | Contentful | - | https://www.contentful.com/ |
 
 ## Best Practices
-[a relative link](./BestPractices.md)
+[BestPractices.md file](./BestPractices.md)
