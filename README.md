@@ -34,10 +34,17 @@ For know me better, here is my [LinkedIn](https://www.linkedin.com/in/ivanafanas
 | EmailJS | easy to use. cheap | https://www.emailjs.com/ |
 | Mailerlite | Marketing emails. ???? | https://www.mailerlite.com/ |
 | TransactionalEmail | Transactional Email?? | https://sendamply.com/ |
+| Postmark | Email service ??? | https://postmarkapp.com/ |
+
+## Libs
+| Name | Description | Link |
+| --- | --- | --- |
 | WYSWYG | The headless editor | https://tiptap.dev/ |
 | Markdown | - | https://www.npmjs.com/package/marked | 
 | React Multi Carousel | - | https://www.npmjs.com/package/react-multi-carousel |
 | React Mask | - | https://github.com/pedrosoares/react-the-mask |
+| oidc react | For oidc wrapper in a few lines | https://github.com/authts/oidc-client-ts & https://www.npmjs.com/package/oidc-react |
+| auth server lib | Supports svelte | https://lucia-auth.com/
 
 ## CMS's
 | CMS | Description | Link |
