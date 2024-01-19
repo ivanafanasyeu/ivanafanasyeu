@@ -35,6 +35,7 @@ For know me better, here is my [LinkedIn](https://www.linkedin.com/in/ivanafanas
 | Mailerlite | Marketing emails. ???? | https://www.mailerlite.com/ |
 | TransactionalEmail | Transactional Email?? | https://sendamply.com/ |
 | Postmark | Email service ??? | https://postmarkapp.com/ |
+| Resend | Email service and sdk | https://resend.com/ |
 
 ## Libs
 | Name | Description | Link |
