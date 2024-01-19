@@ -15,8 +15,9 @@ For know me better, here is my [LinkedIn](https://www.linkedin.com/in/ivanafanas
 | AlgoMonster | Practice Algorithms tasks | https://algo.monster |
 
 ## Deploy
-- Azure
+- Cloudflare
 - AWS
+- Azure
 - Vercel
 
 ## Tools
