@@ -7,6 +7,8 @@ For know me better, here is my [LinkedIn](https://www.linkedin.com/in/ivanafanas
 | Tutorials | Description | Link |
 | --- | --- | --- |
 | developerway | A bunch of tutorial, mostly about the react | https://www.developerway.com/ |
+| hackthebox | Learn security breaches | https://www.hackthebox.com/hacker |
+| SEO course | ??? | https://academy.hubspot.com/courses/seo-training |
 
 ## Practice Code
 | Tutorials | Description | Link |
@@ -15,11 +17,8 @@ For know me better, here is my [LinkedIn](https://www.linkedin.com/in/ivanafanas
 | AlgoMonster | Practice Algorithms tasks | https://algo.monster |
 
 ## Deploy
-- Cloudflare
-- AWS
-- Azure
-- Vercel
-
+- Cloudflare, AWS, Azure, Linode
+  
 ## Tools
 | Tool | Description | Link |
 | --- | --- | --- |
