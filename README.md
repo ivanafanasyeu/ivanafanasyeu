@@ -1,7 +1,7 @@
 # Hi, I'm Ivan Afanasyeu
 Here is my github profile. I almost don't use github, cause working with private companies.
 I'm gonna use this page as an informative resource for myself to save helpful links & gists.
-For know me better, here is my [LinkedIn](https://www.linkedin.com/in/ivanafanasyev/)
+For know me better, here is my [LinkedIn](https://www.linkedin.com/in/ivanafanasyeu/)
 
 ## Tutorials
 | Tutorials | Description | Link |
