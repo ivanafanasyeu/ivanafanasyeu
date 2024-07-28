@@ -8,16 +8,9 @@ For know me better, here is my [LinkedIn](https://www.linkedin.com/in/ivanafanas
 | --- | --- | --- |
 | developerway | A bunch of tutorial, mostly about the react | https://www.developerway.com/ |
 | hackthebox | Learn security breaches | https://www.hackthebox.com/hacker |
-| SEO course | ??? | https://academy.hubspot.com/courses/seo-training |
-
-## Practice Code
-| Tutorials | Description | Link |
-| --- | --- | --- |
-| Coderbyte | Practice Code solutions | https://coderbyte.com/ |
-| AlgoMonster | Practice Algorithms tasks | https://algo.monster |
 
 ## Deploy
-- Cloudflare, AWS, Azure, Linode, DigitalOcean
+- Linode, DigitalOcean, AWS, Azure, ... 
   
 ## Tools
 | Tool | Description | Link |
@@ -51,7 +44,7 @@ For know me better, here is my [LinkedIn](https://www.linkedin.com/in/ivanafanas
 ## CMS's
 | CMS | Description | Link |
 | --- | --- | --- |
-| Sanity | - . p.s. partner with Next.js | https://www.sanity.io/ |
+| Sanity | - | https://www.sanity.io/ |
 | Contentful | - | https://www.contentful.com/ |
 
 ## Best Practices
